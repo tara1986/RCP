@@ -1,0 +1,17 @@
+D:\projektyC#\RCP\RCP\obj\Debug\RCP.csprojResolveAssemblyReference.cache
+D:\projektyC#\RCP\RCP\obj\Debug\MainWindow.g.cs
+D:\projektyC#\RCP\RCP\obj\Debug\App.g.cs
+D:\projektyC#\RCP\RCP\obj\Debug\RCP_MarkupCompile.cache
+D:\projektyC#\RCP\RCP\obj\Debug\RCP_MarkupCompile.lref
+D:\projektyC#\RCP\RCP\bin\Debug\RCP.exe.config
+D:\projektyC#\RCP\RCP\bin\Debug\RCP.exe
+D:\projektyC#\RCP\RCP\bin\Debug\RCP.pdb
+D:\projektyC#\RCP\RCP\obj\Debug\MainWindow.baml
+D:\projektyC#\RCP\RCP\obj\Debug\Styles.baml
+D:\projektyC#\RCP\RCP\obj\Debug\RCP.g.resources
+D:\projektyC#\RCP\RCP\obj\Debug\RCP.Properties.Resources.resources
+D:\projektyC#\RCP\RCP\obj\Debug\RCP.csproj.GenerateResource.Cache
+D:\projektyC#\RCP\RCP\obj\Debug\RCP.exe
+D:\projektyC#\RCP\RCP\obj\Debug\RCP.pdb
+D:\projektyC#\RCP\RCP\obj\Debug\App.baml
+D:\projektyC#\RCP\RCP\obj\Debug\GeneratedInternalTypeHelper.g.cs
